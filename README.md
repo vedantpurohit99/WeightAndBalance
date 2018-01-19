@@ -5,7 +5,7 @@ A Weight and Balance calculator that can be used by pilots of small planes, such
 Program by Vedant Purohit
 
 
-<img src="https://github.com/vedantpurohit99/EulerMethodGrapher/blob/master/Images/ExampleExecution.JPG" width="500" height="350">
+<img src="https://github.com/vedantpurohit99/WeightAndBalance/blob/master/Images/Main%20Menu.JPG" width="500" height="350">
 
 <img src="https://github.com/vedantpurohit99/EulerMethodGrapher/blob/master/Images/ExampleExecution.JPG" width="500" height="350">
 
