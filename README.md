@@ -7,6 +7,6 @@ Program by Vedant Purohit
 
 <img src="https://github.com/vedantpurohit99/WeightAndBalance/blob/master/Images/Main%20Menu.JPG" width="500" height="350">
 
-<img src="https://github.com/vedantpurohit99/EulerMethodGrapher/blob/master/Images/ExampleExecution.JPG" width="500" height="350">
+<img src="https://github.com/vedantpurohit99/WeightAndBalance/blob/master/Images/Instructions.JPG" width="500" height="350">
 
 <img src="https://github.com/vedantpurohit99/EulerMethodGrapher/blob/master/Images/ExampleExecution.JPG" width="500" height="350">
